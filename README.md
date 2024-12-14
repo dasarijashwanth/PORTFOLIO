@@ -6,8 +6,8 @@ I am Jashwanth Dasari, a Data Enthusiast with a focus on leveraging data to driv
 
 ## 🎓 Education
 
-| Degree | Institution | GPA | Year |
-|--------|-------------|-----|------|
+| Degree | Institution          | GPA | Year    |
+|--------|----------------------|-----|---------|
 | Master of Science in Computer Science | Florida Atlantic University | 3.67/4 | 2024 - 2025 |
 | Bachelor of Technology in Electronics & Communication | Kamala Institute of Technology and Science | 8.2/10 | 2019 - 2023 |
 
